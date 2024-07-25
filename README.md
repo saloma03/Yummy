@@ -20,7 +20,7 @@ To run the project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/YummyExam.git
+git clone https://github.com/saloma03/Yummy.git
 cd YummyExam
 
 Install dependencies:
